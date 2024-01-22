@@ -1,2 +1,2 @@
 # letter-game
-A random letter generator written in JavaScript
+A random letter generator written in JavaScript.
